@@ -20,4 +20,11 @@ console.log(greet.toUpperCase());
 greet = greet.toUpperCase();
 console.log(greet);
 
+// slice method
+{
+let name = "Vicky Kumar";
+name = name.slice(0,6);
+console.log(name);
+}
+
 
