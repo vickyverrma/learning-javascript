@@ -27,4 +27,11 @@ name = name.slice(0,6);
 console.log(name);
 }
 
+// String concatenation
+let first = "Vicky";
+let last = "Verma";
+let full = first + " " + last;
+console.log(full);
+
+
 
