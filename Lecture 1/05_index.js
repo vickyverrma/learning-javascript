@@ -28,4 +28,6 @@ let age3 = "23";
 age3 = +age3;
 console.log(typeof age3);
 
-
+let age4 = "24";
+age4 = Number(age4);
+console.log(typeof age4);
