@@ -24,3 +24,8 @@ age2 = String(age2);
 console.log(typeof age2);
 
 // convert string into number
+let age3 = "23";
+age3 = +age3;
+console.log(typeof age3);
+
+
