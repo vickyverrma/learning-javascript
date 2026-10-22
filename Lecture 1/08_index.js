@@ -42,4 +42,26 @@ if(name)
 else{
     console.log("name is "+ name);
 }
-    
+
+// truthy values
+// except falsy all other values are truthy.
+
+// ex 1
+a = 1;
+if(a)
+{
+    console.log("a is not falsy ")
+}
+else{
+    console.log("a is falsy");
+}
+
+// ex 2
+name = "vicky"
+if(name)
+{
+    console.log("name is not falsy ")
+}
+else{
+    console.log("name is falsy");
+}
