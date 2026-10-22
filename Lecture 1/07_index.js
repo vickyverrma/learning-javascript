@@ -28,4 +28,12 @@ console.log(c != d);
 
 console.log(c !== d);
 
-
+// find even and odd
+let xyz = 12;
+if(xyz%2 == 0)
+{
+    console.log("even");
+}
+else{
+    console.log("odd");
+}
